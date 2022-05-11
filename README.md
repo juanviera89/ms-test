@@ -2,3 +2,4 @@
 
 # Steps
 - Read Q1 
+- Thinking 
