@@ -7,3 +7,5 @@
 - Reading Q2
 - Pause Q2
 - resume Q2
+- Q2 ready
+- REading Q3
