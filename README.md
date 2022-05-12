@@ -6,3 +6,4 @@
 - Q1 ready
 - Reading Q2
 - Pause Q2
+- resume Q2
