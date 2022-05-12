@@ -9,3 +9,4 @@
 - resume Q2
 - Q2 ready
 - REading Q3
+- Q3 ready
