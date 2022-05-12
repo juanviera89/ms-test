@@ -3,3 +3,5 @@
 # Steps
 - Read Q1 
 - Thinking 
+- Q1 ready
+- Reading Q2
